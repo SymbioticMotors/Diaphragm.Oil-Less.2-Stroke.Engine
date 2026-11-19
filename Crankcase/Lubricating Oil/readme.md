@@ -1,6 +1,6 @@
 Because the lubricating oil serves two purposes:
 1. It's keeps the engine from wearing
-2. It Reduces the Displaceable Compressible Volume inside the crankcase allowing more of the volume change to be transmitted to the diaphragm chamber. This means oil may be very rapidly moving or splashing against one side of the diaphragm.
+2. It Reduces the Displaceable Volume & Compressible Gasses inside the crankcase allowing more of the volume change to be transmitted to the diaphragm chamber. This means oil may be very rapidly moving or splashing against one side of the diaphragm.
 
 The ideal oil consistency would be very low viscosity when hot! allowing higher efficiencies! But oils cold temperature properties should enable the engine to cold start without any major damage.
 
